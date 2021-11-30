@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+//Purpose: To learn C# and become a proficient professional developer.
+//Date: November 30th, 2021
+//Programmer: Connor McNamara (they/them)
+
+namespace Program 
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World"); //sends text to console window
+
+            Console.ReadLine(); //keeps console window up 
+        }
+    }
+}
